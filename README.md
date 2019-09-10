@@ -6,13 +6,13 @@ Hi there, it's small docs to know how debug your language code, hope this helps 
 ## How to Debug?
 
 <!-- php -->
-PHP - 
+PHP - laravel
 echo "<pre>";print_r($var);exit
 dump($var);
 print_r($var):
 
 <!-- python -->
-Python - 
+Python - Django
 print(var)
 
 <!-- javascript -->
