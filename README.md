@@ -3,7 +3,7 @@ Hi there, it's small docs to know how debug your language code, hope this helps 
 
 `"if you know How to Debug? then you can learn any programming language or framework?"`
 
-##How to Debug?
+## How to Debug?
 
 <!-- php -->
 PHP - 
