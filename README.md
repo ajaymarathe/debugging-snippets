@@ -18,4 +18,4 @@ print(var)
 <!-- javascript -->
 Javascript - Angular, React, Vue 
 console.log(var);
-alert(var);
+alert(var); 
